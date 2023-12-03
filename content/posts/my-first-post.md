@@ -5,7 +5,6 @@ draft = false
 theme = 'ananke'
 +++
 
-## Introduction
 
 Greetings, my name is Srivatsan Sudhir. I’m 16 years old and in  11th grade. I’m currently studying in Inventure Academy in Bangalore, India. I enjoy playing chess, watching films and tv shows, and reading. I currently have an FIDE rating of 1030 in chess and have also written multiple articles and short stories for my school newspaper. I also self-published a novel in 2020.
 
