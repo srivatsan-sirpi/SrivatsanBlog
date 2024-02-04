@@ -1,0 +1,18 @@
++++
+title = 'The Book Thief Review'
+date = 2023-10-22
+draft = false
+theme = 'ananke'
++++
+
+
+
+World War 2 was one of the most horrific and well-known events in human history. People from all around the world were affected by it and had their own different experiences. But one perspective many fail to consider, because of the country’s actions in the war, is that of the German civilian. *The Book Thief*, by Mark Zusak, is a powerful and devastating story of a German girl, Liesel’s experiences in the war set in the fictional town of Molching. It certainly has become a classic and a cornerstone of modern literature for good reason.
+
+*The Book Thief* follows Liesel, a young orphaned girl who is taken in by two foul-mouthed but loving foster parents in a small German town. The story starts in 1939 and gets darker and more intense as the war progresses, thus providing a truly unique perspective on it that stands out from all the stories told from the perspectives of the Jews or soldiers. It does nothing to glorify and romanticize the war, and truly shows just how horrific the effects of the Nazis and the war were. It is a perfect study of the sheer depth of human cruelty and evil. However, it’s not all doom and gloom. In contrast to the surrounding events, Zusak explores the depth of human goodness and compassion through Liesel and her parents, and how they take in, conceal and shelter a Jew.
+
+As its title suggests, the story follows a book thief, and Zusak uses this to explore not only the morality and reasoning behind theft, especially potent in a setting like Nazi Germany, but also the power of words and writing in an especially potent arc with Max, the Jew that Liesel and her parents help shelter. There are some ridiculously tense and well-crafted scenes involving Max and his concealing that are nothing short of mastery. Now, *The Book Thief* is, of course, a World War 2 novel, so the story goes to some pretty dark places that don’t seem excessively depressing or manipulative, because of how real the events were. Even going into the story knowing this, nothing prepared me for the devastation of the ending. It is absolutely gut-wrenching in the best way possible.
+
+Despite all this, *The Book Thief* is not perfect. The story certainly got slightly repetitive and tedious at points. In addition, the opening few pages are slightly confusing and disorienting, and not in a good way. The writing style could also be slightly hit or miss at times, especially with odd lines of description like “Her words were motionless” and “The breakfast coloured sun”. Similarly hit-or-miss was the framing device of narration by Death itself. While haunting at pivotal moments, it’s not very clear that Death is the narration, which contributes to the confusion at the beginning. While these criticisms might seem major, none of them are substantial enough to take away from the overall impact of the story.
+
+Clearly, *The Book Thief* is a masterful work of modern literature. Through realistic and devastating characterisation and skilful penmanship, Zusak creates a story that is terrifying not just because of the immense evil that is presented, but because that evil is entirely real. Between this book and Christopher Nolan’s *Oppenheimer*, it’s clear that the best World War 2 stories sugarcoat nothing, and use the war as a medium to display the horrors of what humanity is truly capable of.
