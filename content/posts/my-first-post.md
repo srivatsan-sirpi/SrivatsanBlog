@@ -1,6 +1,5 @@
 +++
 title = 'An Introduction'
-date = 2023-11-12T21:12:14+05:30
 draft = false
 theme = 'ananke'
 +++
