@@ -2,26 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Srivatsan Sudhir</title>
-    <link>srivatsansudhir.com/</link>
+    <link>/</link>
     <description>Recent content on Srivatsan Sudhir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 21:12:14 +0530</lastBuildDate>
-    <atom:link href="srivatsansudhir.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Introduction</title>
-      <link>srivatsansudhir.com/posts/my-first-post/</link>
-      <pubDate>Sun, 12 Nov 2023 21:12:14 +0530</pubDate>
-      <guid>srivatsansudhir.com/posts/my-first-post/</guid>
-      <description>Greetings, my name is Srivatsan Sudhir. I’m 16 years old and in 11th grade. I’m currently studying in Inventure Academy in Bangalore, India. I enjoy playing chess, watching films and tv shows, and reading. I currently have an FIDE rating of 1030 in chess and have also written multiple articles and short stories for my school newspaper. I also self-published a novel in 2020.
-I decided to start writing this blog because I quite enjoy writing, and wanted a platform to put out my thoughts on things that I don’t always have a chance to, while also furthering and honing my writing skills.</description>
+      <title>The Shining: The Novel vs The Film</title>
+      <link>/posts/my-12th-post/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-12th-post/</guid>
+      <description>When you look at lists of the best horror films of all time, there are certain usual suspects that show up pretty much everywhere: The Exorcist, Psycho, Alien, Halloween and others. But perhaps the most acclaimed horror film, especially in contrast to its negative reception when it was released, is The Shining. Stanley Kubrick’s tale of a man going insane in a haunted hotel in the mountains has found widespread appreciation in the modern era for its atmosphere, direction and performances.</description>
+    </item>
+    <item>
+      <title>The Book Thief Review</title>
+      <link>/posts/my-11th-post/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-11th-post/</guid>
+      <description>World War 2 was one of the most horrific and well-known events in human history. People from all around the world were affected by it and had their own different experiences. But one perspective many fail to consider, because of the country’s actions in the war, is that of the German civilian. The Book Thief, by Mark Zusak, is a powerful and devastating story of a German girl, Liesel’s experiences in the war set in the fictional town of Molching.</description>
+    </item>
+    <item>
+      <title>The Giver: A Utopian Nightmare</title>
+      <link>/posts/my-10th-post/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-10th-post/</guid>
+      <description>Are strong emotions truly the root of all human suffering and pain? Would doing away with anger, rudeness and powerful feelings make the world a better place? What if only one person knew about the wonders and terror of humanity’s past? These are the questions Lois Lowry sets out to answer in her 1993 hit sci-fi dystopian novel The Giver. But does it deliver on its premise and explore its fascinating themes in a satisfying way?</description>
+    </item>
+    <item>
+      <title>Social Anxiety: A Serious Mental Illness</title>
+      <link>/posts/my-9th-post/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-9th-post/</guid>
+      <description>Have you ever met someone who seemed scared and nervous during any social interaction? Who barely talked, even in groups with very little people? Who fumbled over and stuttered their words when they did talk? If you do know someone like this, they’re most likely not just simply awkward or shy. They probably suffer from social anxiety, something even people like Harrison Ford have suffered from.
+Contrary to what many think, social anxiety is not something that can be magically cured by just being “confident” and “relaxed” when speaking to others.</description>
+    </item>
+    <item>
+      <title>Blood Meridian Review</title>
+      <link>/posts/my-8th-post/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-8th-post/</guid>
+      <description>Blood Meridian, by Cormac McCarthy, needs no introduction. Though initially written off by critics, it has since garnered acclaimed as one of the greatest American novels of all time in literary circles, and has started to achieve more widespread recognition. But how much value or quality does this novel have to someone not as well-read or not usually part of such literary circles?
+To start, Blood Meridian certainly has a lot to offer, specifically in its subversion of the typical western narrative.</description>
+    </item>
+    <item>
+      <title>Should Artifical Intelligence Replace Artists?</title>
+      <link>/posts/my-7th-post/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-7th-post/</guid>
+      <description>With the surge in popularity and progress of artificial intelligence in the past year, the conversations surrounding AI taking our jobs have become more commonplace, and with the advancement of AI engines such as ChatGPT, these conversations have started to shift to the art, entertainment and music industries. “Surely artists and writers will soon get replaced by AI as it improves more,” some say. “Companies and studios will be able to obtain the same high-quality art for a fraction of the price.</description>
+    </item>
+    <item>
+      <title>Why You Should Read Outliers: The Story of Success</title>
+      <link>/posts/my-6th-post/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-6th-post/</guid>
+      <description>Have you ever wondered why, despite all your hard work and effort, you still haven’t gotten the success or merit you feel you deserve? On the flip side, have you ever wondered why certain groups of people and individuals have become so successful at certain fields despite working as hard as everyone else and lacking a tangible genetic advantage? Is diligence and effort really all that matters, or are there grander factors involved with one’s success?</description>
+    </item>
+    <item>
+      <title>Why The Kite Runner is so Powerful</title>
+      <link>/posts/my-5th-post/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-5th-post/</guid>
+      <description>A lot of us seem to think that we got unlucky with our lives, that our lives are terrible compared to those around us. We wish for more money, more friends, better devices, better social skills and less problems. This is why we need stories like The Kite Runner, stories that show us just how easy we have it. It is a haunting story of a boy growing up in 1970s Afghanistan and personal and external challenges he faces both in Afghanistan, and after he escapes to the U.</description>
+    </item>
+    <item>
+      <title>Contact-A Faithful Adaptation?</title>
+      <link>/posts/my-4th-post/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-4th-post/</guid>
+      <description>Are we alone in our vast, vast universe? Or is there someone else watching? Could there also be a higher power out there, or did we really evolve from apes? If we did obtain proof that aliens existed, how would the world react? Would contact with them be striven for by the governments around the globe? These are the questions that Carl Sagan’s science fiction classic novel Contact answers. It is a tale its 1997 cinematic adaptation attempts to adapt, with varying degrees of success, but nonetheless providing one of the most introspective and unique films of its genre.</description>
+    </item>
+    <item>
+      <title>The Unsung Heroes of Cinema</title>
+      <link>/posts/my-3rd-post/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-3rd-post/</guid>
+      <description>When you think about some of the most famous figures associated with film, who do you think of? The answer, for most people reading this, would mainly consist of A-list actors of current times and legends of the past like Dwayne Johnson, Robert Downey Jr, Tom Hanks and Al Pacino. For some readers prolific and acclaimed directors like Stanley Kubrick, Christopher Nolan and Steven Spielberg would come up. But actors and directors, along with maybe Roger Deakins, would mostly be the extent of the layman’s knowledge of influential and great cinematic figures.</description>
     </item>
     <item>
       <title>Who Really Deserves the Spotlight?</title>
-      <link>srivatsansudhir.com/posts/my-2nd-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>srivatsansudhir.com/posts/my-2nd-post/</guid>
+      <link>/posts/my-2nd-post/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/posts/my-2nd-post/</guid>
       <description>Lately, people have been becoming more and more invested and consumed in what goes on both in the continuity and canon of fictional worlds and universes, such as the MCU or Harry Potter, and the minute details of the lives of the world’s biggest celebrities. Unfortunately, this also means that people have become more disillusioned to the real world around them, which reflects in the attention and payroll given to essential workers, such as teachers and doctors.</description>
+    </item>
+    <item>
+      <title>An Introduction</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/my-first-post/</guid>
+      <description>Greetings, my name is Srivatsan Sudhir. I’m 16 years old and in 11th grade. I’m currently studying in Inventure Academy in Bangalore, India. I enjoy playing chess, watching films and tv shows, and reading. I currently have an FIDE rating of 1030 in chess and have also written multiple articles and short stories for my school newspaper. I also self-published a novel in 2020.
+I decided to start writing this blog because I quite enjoy writing, and wanted a platform to put out my thoughts on things that I don’t always have a chance to, while also furthering and honing my writing skills.</description>
     </item>
   </channel>
 </rss>

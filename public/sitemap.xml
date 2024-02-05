@@ -2,19 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>srivatsansudhir.com/posts/my-first-post/</loc>
-    <lastmod>2023-11-12T21:12:14+05:30</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>srivatsansudhir.com/posts/</loc>
-    <lastmod>2023-11-12T21:12:14+05:30</lastmod>
+    <loc>/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>srivatsansudhir.com/</loc>
-    <lastmod>2023-11-12T21:12:14+05:30</lastmod>
+    <loc>/posts/my-12th-post/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>srivatsansudhir.com/categories/</loc>
+    <loc>/posts/my-11th-post/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>srivatsansudhir.com/tags/</loc>
+    <loc>/posts/my-10th-post/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>srivatsansudhir.com/posts/my-2nd-post/</loc>
+    <loc>/posts/my-9th-post/</loc>
+    <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-8th-post/</loc>
+    <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-7th-post/</loc>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-6th-post/</loc>
+    <lastmod>2023-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-5th-post/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-4th-post/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-3rd-post/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-2nd-post/</loc>
+    <lastmod>2023-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/my-first-post/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
